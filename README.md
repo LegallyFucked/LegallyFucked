@@ -3,7 +3,7 @@
 Developer and Web Designer
 -------------------------
 
-* 🚀  I'm currently working on [blurry](http://blurry.lol)
+* 🚀  I'm currently working on [repz](http://repz.lol)
 * 🧠  I'm learning next.js
 
 ### Skills
