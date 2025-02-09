@@ -3,8 +3,8 @@
 Developer and Web Designer
 -------------------------
 
-* 🚀  I'm currently working on [repz](http://repz.lol)
-* 🧠  I'm learning next.js
+* 🚀  I'm currently working on [Unfounded](http://unfounded.dev)
+* 🧠  I'm learning nuxt.js
 
 ### Skills
 
