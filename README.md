@@ -9,7 +9,6 @@ Full Stack Developer
 * 🚀  I'm currently working on [Unfounded](http://unfounded.dev)
 * 🧠  I'm learning NuxtJS
 * 🤝  I'm open to collaborating on anything
-* ⚡  https://
 
 ### Skills
 
